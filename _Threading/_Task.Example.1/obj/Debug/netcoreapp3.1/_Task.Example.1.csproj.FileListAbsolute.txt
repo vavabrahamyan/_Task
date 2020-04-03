@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\bin\Debug\netcoreapp3.1\_Task.Example.1.exe
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\bin\Debug\netcoreapp3.1\_Task.Example.1.deps.json
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\bin\Debug\netcoreapp3.1\_Task.Example.1.runtimeconfig.json
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\bin\Debug\netcoreapp3.1\_Task.Example.1.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\bin\Debug\netcoreapp3.1\_Task.Example.1.dll
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\bin\Debug\netcoreapp3.1\_Task.Example.1.pdb
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\obj\Debug\netcoreapp3.1\_Task.Example.1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\obj\Debug\netcoreapp3.1\_Task.Example.1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\obj\Debug\netcoreapp3.1\_Task.Example.1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\obj\Debug\netcoreapp3.1\_Task.Example.1.AssemblyInfo.cs
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\obj\Debug\netcoreapp3.1\_Task.Example.1.dll
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\obj\Debug\netcoreapp3.1\_Task.Example.1.pdb
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.1\obj\Debug\netcoreapp3.1\_Task.Example.1.genruntimeconfig.cache

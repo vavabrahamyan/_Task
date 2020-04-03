@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\bin\Debug\netcoreapp3.1\_Task.Example.3(Metanit).exe
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\bin\Debug\netcoreapp3.1\_Task.Example.3(Metanit).deps.json
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\bin\Debug\netcoreapp3.1\_Task.Example.3(Metanit).runtimeconfig.json
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\bin\Debug\netcoreapp3.1\_Task.Example.3(Metanit).runtimeconfig.dev.json
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\bin\Debug\netcoreapp3.1\_Task.Example.3(Metanit).dll
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\bin\Debug\netcoreapp3.1\_Task.Example.3(Metanit).pdb
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\obj\Debug\netcoreapp3.1\_Task.Example.3(Metanit).csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\obj\Debug\netcoreapp3.1\_Task.Example.3(Metanit).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\obj\Debug\netcoreapp3.1\_Task.Example.3(Metanit).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\obj\Debug\netcoreapp3.1\_Task.Example.3(Metanit).AssemblyInfo.cs
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\obj\Debug\netcoreapp3.1\_Task.Example.3(Metanit).dll
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\obj\Debug\netcoreapp3.1\_Task.Example.3(Metanit).pdb
+C:\Users\user\Desktop\C# & GitHub\_Task\_Threading\_Task.Example.3(Metanit)\obj\Debug\netcoreapp3.1\_Task.Example.3(Metanit).genruntimeconfig.cache

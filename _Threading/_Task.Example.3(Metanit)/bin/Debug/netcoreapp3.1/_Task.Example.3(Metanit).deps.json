@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_Task.Example.3(Metanit)/1.0.0": {
+        "runtime": {
+          "_Task.Example.3(Metanit).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_Task.Example.3(Metanit)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
